@@ -54,7 +54,7 @@ Create a folder named screenshots and add these images:
 - screenshots/admin.png → Admin dashboard view
 - screenshots/posts.png → API output in browser
 
-Then include them in the README like this:
+
 ![image](https://github.com/user-attachments/assets/224fdd81-5f52-451a-ada3-1766d114c8b8)
 
 ![image](https://github.com/user-attachments/assets/12b97e8b-2234-4d9e-8ec7-061eb5ddada4)
